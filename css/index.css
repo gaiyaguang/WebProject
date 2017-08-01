@@ -97,5 +97,29 @@
 .web{padding-top:30px;}
 .web img{margin:0 12px;}
 
+/*产品分类*/
+.products{margin-top:15px;}
+.products .leftArea{width:185px;}
+.products .rightArea{width:810px;}
+.products .banner_bar{float:none;}
+.leftNav{background-color:#f3f3f3;border:#d7d7d7 solid 1px;} 
+.navTitle{height:34px;line-height:34px;font-size:14px;border-bottom:#d4d4d4 solid 1px;text-align:center;}
+.navCont{padding:0 18px 4px;border-bottom:#d4d4d4 dotted 1px;margin-bottom:-1px;}
+.navCont h3{font-size:12px;height:30px;line-height:30px;}
+.navCont_list li{width:50%;float:left;line-height:25px;}
 
-
+/*商品标题 图片*/
+.hr_7{height:7px;}
+.products_title{height:34px;border-bottom:#cccccc solid 2px;}
+.products_title h3{width:180px;border-bottom:#096dba solid 2px;height:34px;line-height:34px;padding-left:9px;}
+/*商品item*/
+.products_item{width:25%;float:left;}
+.products_item .product_img{height:170px;text-align:center;}
+.product_img img{height:170px;}
+.products_item p{line-height:20px;}
+.products_item .product_des{line-height:20px;}
+.product_des a{color:#000;}
+.product_des a:hover{text-decoration:underline;}
+.products_item .product_price{color:#d4105a;font-weight:bold;padding-top:10px;}
+.star{width:13px;height:12px;overflow:hidden;background:url(../image/icon/collection.jpg)left center no-repeat;display:inline-block;margin-right:1px;}
+.product_comment a:hover{text-decoration:underline;}
